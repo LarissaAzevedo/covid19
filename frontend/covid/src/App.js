@@ -29,9 +29,10 @@ function App() {
         <Abas />
         <br />
         <br />
+        <Teste />
+        <br />
       </Container>
       <Footer />
-      <Teste />
     </div>
   );
 }
